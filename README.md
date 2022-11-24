@@ -5,7 +5,7 @@ Projeto de Machine Larning com grandes volumes de dados utilizando PySpark, para
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **challenge_data_science_II**
-| :label: Tecnologias | Python, PySpark, Trello,google colob (tecnologias utilizadas)
+| :label: Tecnologias | Python, PySpark, Trello,google colab (tecnologias utilizadas)
 | :fire: Desafio     |  https://www.alura.com.br/challenges/data-science-2?host=https://cursos.alura.com.br
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->

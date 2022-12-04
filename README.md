@@ -12,7 +12,7 @@
 
 </div>
 
-Projeto de Machine Larning com grandes volumes de dados utilizando PySpark, para classificação e modelo de recomendação de Imóveis.
+A imobiliária InsightPlaces, situada na cidade do Rio de Janeiro, está enfrentando dificuldades para alugar e vender imóveis. Em uma pesquisa de como empresas semelhantes operam no mercado, a InsightPlaces percebeu que esse problema pode estar relacionado aos valores dos imóveis e às recomendações que faz.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |

@@ -41,3 +41,8 @@ Tratamento dos dados e criação de um modelo de regressão com PySpark: Você v
 & 04
 Criando um modelo de recomendação com PySpark: Você vai criar um recomendador de imóveis.
 
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoMorais1a&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegoMorais1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>

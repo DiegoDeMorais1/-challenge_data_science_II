@@ -22,7 +22,8 @@ A imobiliária InsightPlaces, situada na cidade do Rio de Janeiro, está enfrent
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 
-![insignhtPlaces](https://user-images.githubusercontent.com/104234513/203103126-3dbe6892-5acb-46d0-bef5-e3c10b7c5a5a.png#vitrinedev)
+![image](https://github.com/DiegoDeMorais1/-challenge_data_science_II/assets/118218502/dc544f1e-5f33-40b3-aed7-cecb6d78000d)
+
 
 
 ## Detalhes do projeto
